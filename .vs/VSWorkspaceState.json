@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SkinetApi",
+    "\\SkinetApi\\Entities"
   ],
   "SelectedNode": "\\skinet.sln",
   "PreviewInSolutionExplorer": false

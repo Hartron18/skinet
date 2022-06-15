@@ -1,0 +1,737 @@
+[
+  {
+    "OID": 106,
+    "SetupType": "ApprovedNotApproved",
+    "Code": "NOT APPROVED",
+    "Description": "NOT APPROVED",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 120,
+    "SetupType": "Months",
+    "Code": "January",
+    "Description": "January",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 121,
+    "SetupType": "Months",
+    "Code": "February",
+    "Description": "February",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 122,
+    "SetupType": "Months",
+    "Code": "March",
+    "Description": "March",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 123,
+    "SetupType": "Months",
+    "Code": "April",
+    "Description": "April",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 124,
+    "SetupType": "Months",
+    "Code": "May",
+    "Description": "May",
+    "CodeOrderApplication": 5
+  },
+  {
+    "OID": 125,
+    "SetupType": "Months",
+    "Code": "June",
+    "Description": "June",
+    "CodeOrderApplication": 6
+  },
+  {
+    "OID": 126,
+    "SetupType": "Months",
+    "Code": "July",
+    "Description": "July",
+    "CodeOrderApplication": 7
+  },
+  {
+    "OID": 127,
+    "SetupType": "Months",
+    "Code": "August",
+    "Description": "August",
+    "CodeOrderApplication": 8
+  },
+  {
+    "OID": 128,
+    "SetupType": "Months",
+    "Code": "September",
+    "Description": "September",
+    "CodeOrderApplication": 9
+  },
+  {
+    "OID": 129,
+    "SetupType": "Months",
+    "Code": "October",
+    "Description": "October",
+    "CodeOrderApplication": 10
+  },
+  {
+    "OID": 130,
+    "SetupType": "Months",
+    "Code": "November",
+    "Description": "November",
+    "CodeOrderApplication": 11
+  },
+  {
+    "OID": 131,
+    "SetupType": "Months",
+    "Code": "December",
+    "Description": "December",
+    "CodeOrderApplication": 12
+  },
+  {
+    "OID": 147,
+    "SetupType": "ProjectStatus",
+    "Code": "NONE",
+    "Description": "NONE",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 148,
+    "SetupType": "ProjectStatus",
+    "Code": "Pending",
+    "Description": "Pending",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 149,
+    "SetupType": "ProjectStatus",
+    "Code": "Completed",
+    "Description": "Completed",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 151,
+    "SetupType": "PendingCompleted",
+    "Code": "Pending",
+    "Description": "Pending",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 152,
+    "SetupType": "PendingCompleted",
+    "Code": "Completed",
+    "Description": "Completed",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 160,
+    "SetupType": "SiteInspectionStatus",
+    "Code": "NONE",
+    "Description": "NONE",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 161,
+    "SetupType": "SiteInspectionStatus",
+    "Code": "Inspected",
+    "Description": "Inspected",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 162,
+    "SetupType": "SiteInspectionStatus",
+    "Code": "NotInspected",
+    "Description": "NotInspected",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 167,
+    "SetupType": "ActiveInactive",
+    "Code": "ACTIVE",
+    "Description": "ACTIVE",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 168,
+    "SetupType": "ActiveInactive",
+    "Code": "INACTIVE",
+    "Description": "INACTIVE",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 169,
+    "SetupType": "MonthShort",
+    "Code": "NONE",
+    "Description": "NONE",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 170,
+    "SetupType": "MonthShort",
+    "Code": "JAN",
+    "Description": "JAN",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 171,
+    "SetupType": "MonthShort",
+    "Code": "FEB",
+    "Description": "FEB",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 172,
+    "SetupType": "MonthShort",
+    "Code": "MAR",
+    "Description": "MAR",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 173,
+    "SetupType": "MonthShort",
+    "Code": "APR",
+    "Description": "APR",
+    "CodeOrderApplication": 5
+  },
+  {
+    "OID": 174,
+    "SetupType": "MonthShort",
+    "Code": "MAY",
+    "Description": "MAY",
+    "CodeOrderApplication": 6
+  },
+  {
+    "OID": 175,
+    "SetupType": "MonthShort",
+    "Code": "JUN",
+    "Description": "JUN",
+    "CodeOrderApplication": 7
+  },
+  {
+    "OID": 176,
+    "SetupType": "MonthShort",
+    "Code": "JUL",
+    "Description": "JUL",
+    "CodeOrderApplication": 8
+  },
+  {
+    "OID": 177,
+    "SetupType": "MonthShort",
+    "Code": "AUG",
+    "Description": "AUG",
+    "CodeOrderApplication": 9
+  },
+  {
+    "OID": 178,
+    "SetupType": "MonthShort",
+    "Code": "SEP",
+    "Description": "SEP",
+    "CodeOrderApplication": 10
+  },
+  {
+    "OID": 179,
+    "SetupType": "MonthShort",
+    "Code": "OCT",
+    "Description": "OCT",
+    "CodeOrderApplication": 11
+  },
+  {
+    "OID": 180,
+    "SetupType": "MonthShort",
+    "Code": "NOV",
+    "Description": "NOV",
+    "CodeOrderApplication": 12
+  },
+  {
+    "OID": 181,
+    "SetupType": "MonthShort",
+    "Code": "DEC",
+    "Description": "DEC",
+    "CodeOrderApplication": 13
+  },
+  {
+    "OID": 182,
+    "SetupType": "FiscalPeriod",
+    "Code": "NONE",
+    "Description": "NONE",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 183,
+    "SetupType": "FiscalPeriod",
+    "Code": "Won",
+    "Description": "Too",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 184,
+    "SetupType": "FiscalPeriod",
+    "Code": "Tree",
+    "Description": "Tree",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 185,
+    "SetupType": "FiscalPeriod",
+    "Code": "Sweet",
+    "Description": "Sweet",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 186,
+    "SetupType": "FiscalPeriod",
+    "Code": "for",
+    "Description": "for",
+    "CodeOrderApplication": 5
+  },
+  {
+    "OID": 187,
+    "SetupType": "FiscalPeriod",
+    "Code": "Bad",
+    "Description": "Bad",
+    "CodeOrderApplication": 6
+  },
+  {
+    "OID": 188,
+    "SetupType": "FiscalPeriod",
+    "Code": "Badder",
+    "Description": "Badder",
+    "CodeOrderApplication": 7
+  },
+  {
+    "OID": 189,
+    "SetupType": "FiscalPeriod",
+    "Code": "Good",
+    "Description": "Good",
+    "CodeOrderApplication": 8
+  },
+  {
+    "OID": 190,
+    "SetupType": "FiscalPeriod",
+    "Code": "Flaw",
+    "Description": "Flaw",
+    "CodeOrderApplication": 9
+  },
+  {
+    "OID": 191,
+    "SetupType": "FiscalPeriod",
+    "Code": "Nai",
+    "Description": "Nai",
+    "CodeOrderApplication": 10
+  },
+  {
+    "OID": 192,
+    "SetupType": "FiscalPeriod",
+    "Code": "Tan",
+    "Description": "Tan",
+    "CodeOrderApplication": 11
+  },
+  {
+    "OID": 193,
+    "SetupType": "FiscalPeriod",
+    "Code": "Leven",
+    "Description": "Leven",
+    "CodeOrderApplication": 12
+  },
+  {
+    "OID": 194,
+    "SetupType": "FiscalPeriod",
+    "Code": "Day",
+    "Description": "Day",
+    "CodeOrderApplication": 13
+  },
+  {
+    "OID": 195,
+    "SetupType": "MaritalStatus",
+    "Code": "Single",
+    "Description": "Single",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 248,
+    "SetupType": "ApprovedNotApproved",
+    "Code": "PENDING",
+    "Description": "PENDING",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 249,
+    "SetupType": "ApprovedNotApproved",
+    "Code": "APPROVED",
+    "Description": "APPROVED",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 251,
+    "SetupType": "ApprovedNotApproved",
+    "Code": "NOT APPROVED",
+    "Description": "APPROVED",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 268,
+    "SetupType": "YESNO",
+    "Code": "YES",
+    "Description": "YES",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 2355,
+    "SetupType": "IncidentType",
+    "Code": "NONE",
+    "Description": "NONE",
+    "CodeOrderApplication": 0
+  },
+  {
+    "OID": 2356,
+    "SetupType": "IncidentType",
+    "Code": "Accident",
+    "Description": "Accident",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2358,
+    "SetupType": "LocationTaxCategory",
+    "Code": "NONE",
+    "Description": "NONE",
+    "CodeOrderApplication": 0
+  },
+  {
+    "OID": 2359,
+    "SetupType": "LocationTaxCategory",
+    "Code": "General Use",
+    "Description": "GeneralUser",
+    "CodeOrderApplication": 0
+  },
+  {
+    "OID": 2360,
+    "SetupType": "MeterReadingUOM",
+    "Code": "Hours",
+    "Description": "Hours",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2361,
+    "SetupType": "MeterReadingUOM",
+    "Code": "Kilometers",
+    "Description": "Kilometers",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2362,
+    "SetupType": "MeterReadingUOM",
+    "Code": "Miles",
+    "Description": "Miles",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 2363,
+    "SetupType": "WorkOrderType",
+    "Code": "None",
+    "Description": "None",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2364,
+    "SetupType": "WorkOrderType",
+    "Code": "General",
+    "Description": "General",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2365,
+    "SetupType": "EquipmentStatus",
+    "Code": "Active",
+    "Description": "Active",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2366,
+    "SetupType": "EquipmentStatus",
+    "Code": "Inactive",
+    "Description": "Inactive",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2367,
+    "SetupType": "EquipmentStatus",
+    "Code": "In Shop",
+    "Description": "In Shop",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 2368,
+    "SetupType": "EquipmentStatus",
+    "Code": "Out of Service",
+    "Description": "Out of Service",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 2369,
+    "SetupType": "EquipmentStatus",
+    "Code": "Sold",
+    "Description": "Sold",
+    "CodeOrderApplication": 5
+  },
+  {
+    "OID": 2370,
+    "SetupType": "EquipmentStatus",
+    "Code": "Transferred",
+    "Description": "Transferred",
+    "CodeOrderApplication": 6
+  },
+  {
+    "OID": 2371,
+    "SetupType": "Country",
+    "Code": "Nigeria",
+    "Description": "Nigeria",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2372,
+    "SetupType": "EquipmentOwnership",
+    "Code": "Owned",
+    "Description": "Owned",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2373,
+    "SetupType": "EquipmentOwnership",
+    "Code": "Leased",
+    "Description": "Leased",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2374,
+    "SetupType": "EquipmentOwnership",
+    "Code": "Rented",
+    "Description": "Rented",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 2375,
+    "SetupType": "EquipmentOwnership",
+    "Code": "Customer",
+    "Description": "Customer",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 2376,
+    "SetupType": "WorkOrderPriority",
+    "Code": "Low",
+    "Description": "Low",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2377,
+    "SetupType": "WorkOrderPriority",
+    "Code": "Normal",
+    "Description": "Normal",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2378,
+    "SetupType": "WorkOrderPriority",
+    "Code": "High",
+    "Description": "High",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 2379,
+    "SetupType": "WorkOrderPriority",
+    "Code": "Urgent",
+    "Description": "Urgent",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 2380,
+    "SetupType": "Equipment Type",
+    "Code": "Mobile Fleet",
+    "Description": "Mobile Fleet",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2381,
+    "SetupType": "Equipment Type",
+    "Code": "Static",
+    "Description": "Static",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2383,
+    "SetupType": "Task Type",
+    "Code": "None",
+    "Description": "None",
+    "CodeOrderApplication": 24
+  },
+  {
+    "OID": 2391,
+    "SetupType": "Task Type",
+    "Code": "Air filter",
+    "Description": "Air filter",
+    "CodeOrderApplication": 1
+  },
+  {
+    "OID": 2392,
+    "SetupType": "Task Type",
+    "Code": "Align Laser Sights",
+    "Description": "Align Laser Sights",
+    "CodeOrderApplication": 2
+  },
+  {
+    "OID": 2393,
+    "SetupType": "Task Type",
+    "Code": "Change Air Filter",
+    "Description": "Change Air Filter",
+    "CodeOrderApplication": 3
+  },
+  {
+    "OID": 2394,
+    "SetupType": "Task Type",
+    "Code": "Change Fuel Filter",
+    "Description": "Change Fuel Filter",
+    "CodeOrderApplication": 4
+  },
+  {
+    "OID": 2395,
+    "SetupType": "Task Type",
+    "Code": "Change Oil",
+    "Description": "Change Oil",
+    "CodeOrderApplication": 5
+  },
+  {
+    "OID": 2396,
+    "SetupType": "Task Type",
+    "Code": "Check Auto Drain Operation",
+    "Description": "Check Auto Drain Operation",
+    "CodeOrderApplication": 6
+  },
+  {
+    "OID": 2397,
+    "SetupType": "Task Type",
+    "Code": "Check Coolant Level",
+    "Description": "Check Coolant Level",
+    "CodeOrderApplication": 7
+  },
+  {
+    "OID": 2398,
+    "SetupType": "Task Type",
+    "Code": "Check Lights",
+    "Description": "Check Lights",
+    "CodeOrderApplication": 8
+  },
+  {
+    "OID": 2399,
+    "SetupType": "Task Type",
+    "Code": "Clean Air Filter",
+    "Description": "Clean Air Filter",
+    "CodeOrderApplication": 9
+  },
+  {
+    "OID": 2400,
+    "SetupType": "Task Type",
+    "Code": "Clean Cylinder Cooling Fans",
+    "Description": "Clean Cylinder Cooling Fans",
+    "CodeOrderApplication": 10
+  },
+  {
+    "OID": 2401,
+    "SetupType": "Task Type",
+    "Code": "Engine & Oil Filter Change",
+    "Description": "Engine & Oil Filter Change",
+    "CodeOrderApplication": 11
+  },
+  {
+    "OID": 2402,
+    "SetupType": "Task Type",
+    "Code": "Inspect Belt",
+    "Description": "Inspect Belt",
+    "CodeOrderApplication": 12
+  },
+  {
+    "OID": 2403,
+    "SetupType": "Task Type",
+    "Code": "Inspect Brakes",
+    "Description": "Inspect Brakes",
+    "CodeOrderApplication": 13
+  },
+  {
+    "OID": 2404,
+    "SetupType": "Task Type",
+    "Code": "Inspect Cabling",
+    "Description": "Inspect Cabling",
+    "CodeOrderApplication": 14
+  },
+  {
+    "OID": 2405,
+    "SetupType": "Task Type",
+    "Code": "Inspect Fully Charged",
+    "Description": "Inspect Fully Charged",
+    "CodeOrderApplication": 15
+  },
+  {
+    "OID": 2406,
+    "SetupType": "Task Type",
+    "Code": "Inspect Hoist & Chains",
+    "Description": "Inspect Hoist & Chains",
+    "CodeOrderApplication": 16
+  },
+  {
+    "OID": 2407,
+    "SetupType": "Task Type",
+    "Code": "Lubricate Drill Chuck",
+    "Description": "Lubricate Drill Chuck",
+    "CodeOrderApplication": 17
+  },
+  {
+    "OID": 2408,
+    "SetupType": "Task Type",
+    "Code": "M1",
+    "Description": "M1",
+    "CodeOrderApplication": 18
+  },
+  {
+    "OID": 2409,
+    "SetupType": "Task Type",
+    "Code": "M2",
+    "Description": "M2",
+    "CodeOrderApplication": 19
+  },
+  {
+    "OID": 2410,
+    "SetupType": "Task Type",
+    "Code": "M3",
+    "Description": "M3",
+    "CodeOrderApplication": 20
+  },
+  {
+    "OID": 2411,
+    "SetupType": "Task Type",
+    "Code": "Oil & Filter Change",
+    "Description": "Oil & Filter Change",
+    "CodeOrderApplication": 21
+  },
+  {
+    "OID": 2412,
+    "SetupType": "Task Type",
+    "Code": "Replace Air Filter on Control Box",
+    "Description": "Replace Air Filter on Control Box",
+    "CodeOrderApplication": 22
+  },
+  {
+    "OID": 2413,
+    "SetupType": "Task Type",
+    "Code": "Replace Hydraulic Fluid & Filter",
+    "Description": "Replace Hydraulic Fluid & Filter",
+    "CodeOrderApplication": 23
+  },
+  {
+    "OID": 2420,
+    "SetupType": "YESNO",
+    "Code": "NO",
+    "Description": "NO",
+    "CodeOrderApplication": 2
+  }
+]
