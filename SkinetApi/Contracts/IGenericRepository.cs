@@ -1,4 +1,5 @@
 ﻿using SkinetApi.Entities;
+using SkinetApi.Specification;
 
 namespace SkinetApi.Contracts
 {
@@ -6,5 +7,8 @@ namespace SkinetApi.Contracts
     {
         Task<IReadOnlyList<T>> GetAllAsync();
         Task<T> GetByIdAsync(int id);
+
+        Task<T> GetEntityWithSpec(ISpecification<T> spec);
+        Task<IReadOnlyList<T>> ListAsync(ISpecification<T> spec);
     }
 }

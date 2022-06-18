@@ -8,6 +8,7 @@ using SkinetApi.Data;
 using SkinetApi.Entities.Identity;
 using SkinetApi.Extensions;
 using SkinetApi.LoggerService;
+using SkinetApi.Helpers;
 using SkinetApi.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -32,6 +33,7 @@ builder.Services.AddScoped<ILoggerManager, LoggerManager>();
 builder.Services.AddScoped <IRepositoryManager, RepositoryManager>();
 builder.Services.AddScoped<IGeneralRepository, GeneralRepository>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 //builder.Services.AddIdentityCore<AppUser>()
 //    .AddEntityFrameworkStores<StoreDbContext>()

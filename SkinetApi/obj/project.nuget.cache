@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PajeFEWXHCLo79ZtcxShzyi9Nd+5EblQgc+CduVnr2EhGhDhu3qHXEXnB5AW91UH0dujL180aDfC9NlFXpuTFA==",
+  "dgSpecHash": "M6TKZVyenj8KV7rOUCsw04hQgZsOJZOnqHTHEu3M2iq0LujooO0sr9wpolLhsWPrz4XjyfIrq4xbS5yN4R/t8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\SkinetApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -22,7 +24,7 @@
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
-    "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\CAD_DEV_HARRY\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

@@ -73,3 +73,6 @@ C:\Users\CAD_DEV_HARRY\Desktop\skinet\SkinetApi\bin\Debug\net6.0\Data\SeedData\b
 C:\Users\CAD_DEV_HARRY\Desktop\skinet\SkinetApi\bin\Debug\net6.0\Data\SeedData\delivery.json
 C:\Users\CAD_DEV_HARRY\Desktop\skinet\SkinetApi\bin\Debug\net6.0\Data\SeedData\products.json
 C:\Users\CAD_DEV_HARRY\Desktop\skinet\SkinetApi\bin\Debug\net6.0\Data\SeedData\Types.json
+C:\Users\CAD_DEV_HARRY\Desktop\skinet\skinetapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\CAD_DEV_HARRY\Desktop\skinet\skinetapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CAD_DEV_HARRY\Desktop\skinet\skinetapi\bin\Debug\net6.0\SkinetApi.staticwebassets.runtime.json
