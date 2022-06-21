@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3uuYWj943SiBtRgVspk9cg4A1jxsXdojh4gjVxOsiHs=",
+  "Hash": "/x6fqub9fHGGm7ZmRpAcO6WA+qDg2vIDCmfbrLlun5w=",
   "Source": "SkinetApi",
   "BasePath": "_content/SkinetApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SkinetApi\\wwwroot",
       "Source": "SkinetApi",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\.DS_Store",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\.DS_Store",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\.DS_Store",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\.DS_Store",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/.DS_Store",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/boot-ang1.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/boot-ang2.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/boot-core1.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/boot-core2.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/boot-redis1.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/glove-code1.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/glove-code2.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/glove-react1.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/glove-react2.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/hat-core1.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/hat-react1.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/hat-react2.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/sb-ang1.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/sb-core1.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/sb-core2.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/sb-react1.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "SkinetApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\skinetapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\CAD_DEV_HARRY\\Desktop\\skinet\\SkinetApi\\wwwroot\\",
       "BasePath": "_content/SkinetApi",
       "RelativePath": "images/products/sb-ts1.png",
       "AssetKind": "All",

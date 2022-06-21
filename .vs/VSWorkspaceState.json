@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\SkinetApi",
-    "\\SkinetApi\\Entities"
+    "\\SkinetApi\\Controllers",
+    "\\SkinetApi\\Entities",
+    "\\SkinetApi\\Errors",
+    "\\SkinetApi\\Extensions",
+    "\\SkinetApi\\MiddleWare"
   ],
-  "SelectedNode": "\\skinet.sln",
   "PreviewInSolutionExplorer": false
 }

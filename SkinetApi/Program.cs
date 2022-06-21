@@ -10,18 +10,21 @@ using SkinetApi.Extensions;
 using SkinetApi.LoggerService;
 using SkinetApi.Helpers;
 using SkinetApi.Repositories;
+using SkinetApi.MiddleWare;
+using Microsoft.AspNetCore.Mvc;
+using SkinetApi.Errors;
 
 var builder = WebApplication.CreateBuilder(args);
+#region  Including StartUp
 //var  startup = new Startup(builder.Configuration);
 
 //startup.ConfigureServices(builder.Services);
+#endregion
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<StoreDbContext>(options =>
     options.UseSqlServer("name = StoreDbConnection"));
@@ -29,33 +32,23 @@ builder.Services.AddDbContext<StoreDbContext>(options =>
 //builder.Services.AddDbContext<StoreIdentityContext>(options =>
 //    options.UseSqlServer("name = IdentityDbContext"));
 
-builder.Services.AddScoped<ILoggerManager, LoggerManager>();
-builder.Services.AddScoped <IRepositoryManager, RepositoryManager>();
-builder.Services.AddScoped<IGeneralRepository, GeneralRepository>();
-builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-builder.Services.AddAutoMapper(typeof(MappingProfile));
-
-//builder.Services.AddIdentityCore<AppUser>()
-//    .AddEntityFrameworkStores<StoreDbContext>()
-//    .AddSignInManager<SignInManager<AppUser>>();
-
-//builder.Services.AddIdentityCore<Role>()
-//    .AddEntityFrameworkStores<StoreDbContext>()
-//    .AddRoleManager<RoleManager<AppUser>>();
+builder.Services.AddApplicationServices();
+builder.Services.AddSwaggerDoc();
 
 builder.Services.AddIdentityServices();
 
-
-LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
-
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleWare>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    //app.UseDeveloperExceptionPage();
+   
 }
+
+app.UseStatusCodePagesWithReExecute("/errors/{0}");
 
 using (var scope = app.Services.CreateScope())
 {
@@ -85,7 +78,13 @@ using (var scope = app.Services.CreateScope())
 
 app.UseHttpsRedirection();
 
+app.UseRouting();
+
+app.UseStaticFiles();
+
 app.UseAuthorization();
+
+app.UseSwaggerDoc();
 
 app.MapControllers();
 
